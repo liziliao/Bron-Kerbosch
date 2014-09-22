@@ -15,7 +15,6 @@ import edu.uci.ics.jung.graph.*;
  * This algorithmn is taken from Coenraad Bron- Joep Kerbosch in 1973.
  * This works on undirected graph
  *  See {@linktourl  See http://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm}
- * @author Reuben Doetsch
  *
  * @param <V> vertex class of graph
  * @param <E> edge class of graph
